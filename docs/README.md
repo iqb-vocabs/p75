@@ -17,7 +17,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p75/master/unit.jso
 | Entwickler:in | Text | Einzeilig, Sprache(n): de   | iqb_author |
 | Für SPF geeignet | Ja/Nein | Text für WAHR: ja, Text für FALSCH: nein | iqb_spf |
 | Kopfhörereinsatz | [Vokabular](https://w3id.org/iqb/v24/kh/) | url: 'https://w3id.org/iqb/v24/kh/', Einmalauswahl, Nummerierung unterdrückt | iqb_phones |
-| Kompetenzbereich | [Vokabular](https://w3id.org/iqb/v47/k1/) | url: 'https://w3id.org/iqb/v47/k1/', Einmalauswahl, Zeige nur erste Ebene, Nummerierung unterdrückt | iqb_competence |
+| Kompetenzbereich | [Vokabular](https://w3id.org/iqb/v44/k1/) | url: 'https://w3id.org/iqb/v44/k1/', Einmalauswahl, Zeige nur erste Ebene, Nummerierung unterdrückt | iqb_competence |
 | Medien (Stimulus) | [Vokabular](https://w3id.org/iqb/v29/me/) | url: 'https://w3id.org/iqb/v29/me/', Mehrfachauswahl | iqb_media |
 | Angaben zum Urtext und zu Inspirationsquellen | Text | Mehrzeilig, Sprache(n): de   | iqb_source |
 | Instruktionszeit | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_instruction |

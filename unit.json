@@ -75,7 +75,7 @@
           ],
           "type": "vocabulary",
           "parameters": {
-            "url": "https://w3id.org/iqb/v47/k1/",
+            "url": "https://w3id.org/iqb/v44/k1/",
             "allowMultipleValues": false,
             "hideNumbering": true,
             "maxLevel": 1
