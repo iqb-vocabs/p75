@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  site-url: https://iqb-vocabs.github.io/p75/
+  favicon: favicon.ico
+  page-navigation: true
+  repo-url: https://github.com/iqb-vocabs/p75/
+  navbar:
+    logo: iqb-logo-red.png
+    search: true
+    left:
+      - href: index.qmd
+        text: "Metadatenprofile für Testaufgaben: Biologie Sek I"
+    right:
+      - icon: github
+        href: https://github.com/iqb-vocabs/p75
+        aria-label: Source Code
+
+
+lang: de
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
