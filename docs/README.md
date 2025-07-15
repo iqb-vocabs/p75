@@ -51,8 +51,8 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p75/master/item.jso
 | Anforderungsbereich | [Vokabular](https://w3id.org/iqb/v44/a1/) | url: 'https://w3id.org/iqb/v44/a1/', Einmalauswahl, Nummerierung unterdrückt | iqb_requirement_area |
 | Bildungsstandard MSA | [Vokabular](https://w3id.org/iqb/v44/k1/) | url: 'https://w3id.org/iqb/v44/k1/', Mehrfachauswahl | iqb_standards_msa |
 | Basiskonzept | [Vokabular](https://w3id.org/iqb/v44/b1/) | url: 'https://w3id.org/iqb/v44/b1/', Mehrfachauswahl | iqb_basic_concept |
-| Verbindlicher inhaltlicher Aspekt | [Vokabular](https://w3id.org/iqb/v44/i1/) | url: 'https://w3id.org/iqb/v44/i1/', Mehrfachauswahl | iqb_content |
+| Verbindlicher inhaltlicher Aspekt | [Vokabular](https://w3id.org/iqb/v44/i1/) | url: 'https://w3id.org/iqb/v44/i1/', Mehrfachauswahl | iqb_content_aspect |
 | Itemzeit | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_item |
-| Geschätzte Schwierigkeit | [Vokabular](https://w3id.org/iqb/v26/ea/) | url: 'https://w3id.org/iqb/v26/ea/', Einmalauswahl | iqb_complexity |
+| Geschätzte Schwierigkeit | [Vokabular](https://w3id.org/iqb/v26/ea/) | url: 'https://w3id.org/iqb/v26/ea/', Einmalauswahl | iqb_exante_difficulty |
 | Technische Besonderheiten der Antwortoptionen | [Vokabular](https://w3id.org/iqb/v27/ti/) | url: 'https://w3id.org/iqb/v27/ti/', Mehrfachauswahl | iqb_itemtech |
 
