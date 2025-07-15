@@ -45,7 +45,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p75/master/item.jso
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
-| Itemformat | [Vokabular](https://w3id.org/iqb/v27/ns/) | url: 'https://w3id.org/iqb/v27/ns/', Einmalauswahl, Nummerierung unterdrückt | iqb_itemformat |
+| Itemformat | [Vokabular](https://w3id.org/iqb/v27/ns/) | url: 'https://w3id.org/iqb/v27/ns/', Einmalauswahl, Nummerierung unterdrückt | iqb_item_format |
 | ESNaS kognitiver Prozess | [Vokabular](https://w3id.org/iqb/v29/ep/) | url: 'https://w3id.org/iqb/v29/ep/', Einmalauswahl, Nummerierung unterdrückt | iqb_esnas_process |
 | ESNaS Komplexität | [Vokabular](https://w3id.org/iqb/v29/ek/) | url: 'https://w3id.org/iqb/v29/ek/', Einmalauswahl, Nummerierung unterdrückt | iqb_esnas_complexity |
 | Anforderungsbereich | [Vokabular](https://w3id.org/iqb/v44/a1/) | url: 'https://w3id.org/iqb/v44/a1/', Einmalauswahl, Nummerierung unterdrückt | iqb_requirement_area |
