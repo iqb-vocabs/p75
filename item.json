@@ -59,21 +59,6 @@
           }
         },
         {
-          "id": "iqb_requirement_area",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Anforderungsbereich"
-            }
-          ],
-          "type": "vocabulary",
-          "parameters": {
-            "url": "https://w3id.org/iqb/v44/a1/",
-            "allowMultipleValues": false,
-            "hideNumbering": true
-          }
-        },
-        {
           "id": "iqb_standards_msa",
           "label": [
             {
@@ -128,20 +113,6 @@
             "minValue": 0,
             "digits": 0,
             "isPeriodSeconds": true
-          }
-        },
-        {
-          "id": "iqb_exante_difficulty",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Geschätzte Schwierigkeit"
-            }
-          ],
-          "type": "vocabulary",
-          "parameters": {
-            "url": "https://w3id.org/iqb/v26/ea/",
-            "allowMultipleValues": false
           }
         },
         {
