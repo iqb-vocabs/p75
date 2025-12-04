@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,14 +33,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="./favicon.ico" rel="icon">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a986a95301e671fce2c6472dffc862a1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0b37c64f34216b628666a8dac638b53b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -81,7 +82,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./iqb-logo-black.png" alt="" class="navbar-logo">
+    <img src="./iqb-logo-black.png" alt="" class="navbar-logo light-content">
+    <img src="./iqb-logo-black.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Suchen"></div>
@@ -151,6 +153,7 @@ ul.task-list li input[type="checkbox"] {
 
 <p>ID of profile-store: <code>bis1</code></p>
 <p>Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen</p>
+<p>Maintainer:</p>
 <p>2 Profile definiert:</p>
 <section id="iqb-biologie-sek-i---aufgabe" class="level1">
 <h1>IQB Biologie Sek I - Aufgabe</h1>
@@ -341,40 +344,28 @@ ul.task-list li input[type="checkbox"] {
 <td style="text-align: center;">iqb_esnas_complexity</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Anforderungsbereich</td>
-<td style="text-align: center;"><a href="https://w3id.org/iqb/v44/a1/">Vokabular</a></td>
-<td style="text-align: left;">url: ‘https://w3id.org/iqb/v44/a1/’, Einmalauswahl, Dialogbox, Nummerierung unterdrückt</td>
-<td style="text-align: center;">iqb_requirement_area</td>
-</tr>
-<tr class="odd">
 <td style="text-align: left;">Bildungsstandard MSA</td>
 <td style="text-align: center;"><a href="https://w3id.org/iqb/v44/k1/">Vokabular</a></td>
 <td style="text-align: left;">url: ‘https://w3id.org/iqb/v44/k1/’, Mehrfachauswahl, Dialogbox</td>
 <td style="text-align: center;">iqb_standards_msa</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Basiskonzept</td>
 <td style="text-align: center;"><a href="https://w3id.org/iqb/v44/b1/">Vokabular</a></td>
 <td style="text-align: left;">url: ‘https://w3id.org/iqb/v44/b1/’, Mehrfachauswahl, Dialogbox</td>
 <td style="text-align: center;">iqb_basic_concept</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Verbindlicher inhaltlicher Aspekt</td>
 <td style="text-align: center;"><a href="https://w3id.org/iqb/v44/i1/">Vokabular</a></td>
 <td style="text-align: left;">url: ‘https://w3id.org/iqb/v44/i1/’, Mehrfachauswahl, Dialogbox</td>
 <td style="text-align: center;">iqb_content_aspect</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Itemzeit</td>
 <td style="text-align: center;">Zahl</td>
 <td style="text-align: left;">Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden</td>
 <td style="text-align: center;">iqb_time_item</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Geschätzte Schwierigkeit</td>
-<td style="text-align: center;"><a href="https://w3id.org/iqb/v26/ea/">Vokabular</a></td>
-<td style="text-align: left;">url: ‘https://w3id.org/iqb/v26/ea/’, Einmalauswahl, Dialogbox</td>
-<td style="text-align: center;">iqb_exante_difficulty</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Technische Besonderheiten der Antwortoptionen</td>
@@ -440,13 +431,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
