@@ -4,8 +4,6 @@ ID of profile-store: `bis1`
 
 Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
-Maintainer: 
-
 2 Profile definiert:
 
 ## Profil "IQB Biologie Sek I - Aufgabe"
